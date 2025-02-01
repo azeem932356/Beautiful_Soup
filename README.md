@@ -9,8 +9,15 @@ This repository contains a Jupyter Notebook where I explored **BeautifulSoup** f
 - Parsing tables, images, and links  
 - Handling dynamic content with **requests**  
 
-## 🔧 Requirements  
-To run this notebook, install the required libraries:  
+## 🎉 My Experience  
+It was **fun and great** to learn **web scraping**! I enjoyed exploring how to extract data from websites using BeautifulSoup. 🚀  
 
-```bash
-pip install beautifulsoup4 requests pandas
+## 📢 Credits  
+Special thanks to **Keith Galli** for his tutorials on **web scraping**.  
+
+## 🚀 Future Plans  
+In the future, I can **add more projects** to this repository to explore advanced web scraping techniques and real-world applications.  
+
+---
+
+Let me know if you need any more changes! 😊
