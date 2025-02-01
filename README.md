@@ -13,7 +13,7 @@ This repository contains a Jupyter Notebook where I explored **BeautifulSoup** f
 It was **fun and great** to learn **web scraping**! I enjoyed exploring how to extract data from websites using BeautifulSoup. 🚀  
 
 ## 📢 Credits  
-Special thanks to [Keith Galli](https://github.com/KeithGalli for his tutorials on **web scraping**.  
+Special thanks to **Keith Galli**(https://github.com/KeithGalli for his tutorials on **web scraping**.  
 
 ## 🚀 Future Plans  
 In the future, I can **add more projects** to this repository to explore advanced web scraping techniques and real-world applications.  
